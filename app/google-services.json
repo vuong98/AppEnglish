@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612681564377",
+    "project_id": "englishlistening-7213c",
+    "storage_bucket": "englishlistening-7213c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612681564377:android:2b1e38c9d6256ff9ef3ec8",
+        "android_client_info": {
+          "package_name": "com.example.appenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612681564377-kmn9a1rq5lkri6lq72ptec9ok3aeim06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appenglish",
+            "certificate_hash": "3c47fa81671d72e8d29c3d5577e0b03725794796"
+          }
+        },
+        {
+          "client_id": "612681564377-r5l73063bb4ja0e7fk7q7r9cf7cmgpha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFnbcTBGiWdY96W66mV6PQkAKxAL6bh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612681564377-r5l73063bb4ja0e7fk7q7r9cf7cmgpha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

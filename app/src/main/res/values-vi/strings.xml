@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppEnglish</string>
+    <string name="txt_user_name">Tên người dùng</string>
+    <string name="txt_phone">Số điện thoại</string>
+    <string name="txt_id_user">Mã khách hàng</string>
+    <string name="txt_login">Đăng nhập</string>
+
+</resources>
